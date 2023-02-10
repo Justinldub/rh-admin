@@ -19,7 +19,7 @@ function Users(props) {
             <div className="card-body">
               <h5 className="card-title">List of registered users</h5>
 
-             <div class name= "table-responsive>
+             <div class name= "table-responsive">
               <table className="table table-hover table-bordered">
                 <thead>
                   <tr>
